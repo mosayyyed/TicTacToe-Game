@@ -29,7 +29,7 @@ To run the game, you need to have Dart installed on your system. If you haven't 
 Once Dart is installed, you can clone this repository and run the `tictactoe.dart` file.
 
 ```bash
-$ dart tictactoe.dart
+$ dart lib\tictactoe.dart
 ```
 
 ## Contributing 🤝
