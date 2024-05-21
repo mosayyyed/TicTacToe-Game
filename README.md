@@ -26,10 +26,10 @@ In this Tic-Tac-Toe game, two players take turns marking spaces in a 3x3 grid. T
 
 To run the game, you need to have Dart installed on your system. If you haven't already, you can install Dart from [here](https://dart.dev/get-dart).
 
-Once Dart is installed, you can clone this repository and run the `TicTacToe.dart` file.
+Once Dart is installed, you can clone this repository and run the `main.dart` file.
 
 ```bash
-$ dart lib\TicTacToe.dart
+$ dart lib\main.dart
 ```
 
 ## Contributing 🤝
